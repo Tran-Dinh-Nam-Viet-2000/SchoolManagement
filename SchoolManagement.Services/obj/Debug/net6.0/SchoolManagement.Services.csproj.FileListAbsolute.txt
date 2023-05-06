@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Services\bin\Debug\net6.0\SchoolManagement.Services.deps.json
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Services\bin\Debug\net6.0\SchoolManagement.Services.dll
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Services\bin\Debug\net6.0\SchoolManagement.Services.pdb
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Services\bin\Debug\net6.0\SchoolManagement.Data.dll
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Services\bin\Debug\net6.0\SchoolManagement.Data.pdb
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Services\obj\Debug\net6.0\SchoolManagement.Services.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Services\obj\Debug\net6.0\SchoolManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Services\obj\Debug\net6.0\SchoolManagement.Services.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Services\obj\Debug\net6.0\SchoolManagement.Services.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Services\obj\Debug\net6.0\SchoolManagement.Services.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Services\obj\Debug\net6.0\SchoolManagement.Services.csproj.CopyComplete
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Services\obj\Debug\net6.0\SchoolManagement.Services.dll
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Services\obj\Debug\net6.0\refint\SchoolManagement.Services.dll
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Services\obj\Debug\net6.0\SchoolManagement.Services.pdb
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Services\obj\Debug\net6.0\ref\SchoolManagement.Services.dll
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Services\bin\Debug\net6.0\SchoolManagement.Contracts.dll
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Services\bin\Debug\net6.0\SchoolManagement.Contracts.pdb

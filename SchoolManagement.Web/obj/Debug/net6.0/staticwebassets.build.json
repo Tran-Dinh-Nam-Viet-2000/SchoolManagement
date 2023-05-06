@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "E1lxA7Ep8WiKprSNZA+BQ5qg3JTxUR8V+ZXuVwPOTnU=",
+  "Source": "SchoolManagement.Web",
+  "BasePath": "_content/SchoolManagement.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

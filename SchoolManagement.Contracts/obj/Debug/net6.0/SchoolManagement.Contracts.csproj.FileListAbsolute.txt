@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Contracts\bin\Debug\net6.0\SchoolManagement.Contracts.deps.json
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Contracts\bin\Debug\net6.0\SchoolManagement.Contracts.dll
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Contracts\bin\Debug\net6.0\SchoolManagement.Contracts.pdb
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Contracts\obj\Debug\net6.0\SchoolManagement.Contracts.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Contracts\obj\Debug\net6.0\SchoolManagement.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Contracts\obj\Debug\net6.0\SchoolManagement.Contracts.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Contracts\obj\Debug\net6.0\SchoolManagement.Contracts.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Contracts\obj\Debug\net6.0\SchoolManagement.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Contracts\obj\Debug\net6.0\SchoolManagement.Contracts.dll
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Contracts\obj\Debug\net6.0\refint\SchoolManagement.Contracts.dll
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Contracts\obj\Debug\net6.0\SchoolManagement.Contracts.pdb
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Contracts\obj\Debug\net6.0\ref\SchoolManagement.Contracts.dll

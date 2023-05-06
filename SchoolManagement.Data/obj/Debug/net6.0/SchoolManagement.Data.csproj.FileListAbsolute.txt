@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Data\bin\Debug\net6.0\SchoolManagement.Data.deps.json
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Data\bin\Debug\net6.0\SchoolManagement.Data.runtimeconfig.json
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Data\bin\Debug\net6.0\SchoolManagement.Data.dll
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Data\bin\Debug\net6.0\SchoolManagement.Data.pdb
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Data\obj\Debug\net6.0\SchoolManagement.Data.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Data\obj\Debug\net6.0\SchoolManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Data\obj\Debug\net6.0\SchoolManagement.Data.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Data\obj\Debug\net6.0\SchoolManagement.Data.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Data\obj\Debug\net6.0\SchoolManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Data\obj\Debug\net6.0\SchoolManagement.Data.dll
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Data\obj\Debug\net6.0\refint\SchoolManagement.Data.dll
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Data\obj\Debug\net6.0\SchoolManagement.Data.pdb
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Data\obj\Debug\net6.0\SchoolManagement.Data.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Data\obj\Debug\net6.0\ref\SchoolManagement.Data.dll
