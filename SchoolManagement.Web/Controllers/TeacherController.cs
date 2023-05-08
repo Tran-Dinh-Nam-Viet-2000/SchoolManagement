@@ -19,6 +19,12 @@ namespace SchoolManagement.Web.Controllers
             _teacherService = teacherService;
         }
 
+        [HttpGet("Search")]
+        public async Task<IEnumerable<Teacher>> Search(string keyword)
+        {
+             return await _teacherService.Search(keyword);
+        }
+
         [HttpGet]
         public IEnumerable<Teacher> GetAll()
         {

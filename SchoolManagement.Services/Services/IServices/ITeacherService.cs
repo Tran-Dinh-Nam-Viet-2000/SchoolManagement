@@ -10,6 +10,7 @@ namespace SchoolManagement.Services.Services.IServices
 {
     public interface ITeacherService
     {
+        Task<IEnumerable<Teacher>> Search(string keyword);
         IEnumerable<Teacher> GetAll();
         Task<Teacher> Create(TeacherDto teacher);
     }
