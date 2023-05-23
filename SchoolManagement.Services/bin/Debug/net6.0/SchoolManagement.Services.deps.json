@@ -618,10 +618,16 @@
       },
       "SchoolManagement.Data/1.0.0": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.5"
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.5",
+          "SchoolManagement.Domain": "1.0.0"
         },
         "runtime": {
           "SchoolManagement.Data.dll": {}
+        }
+      },
+      "SchoolManagement.Domain/1.0.0": {
+        "runtime": {
+          "SchoolManagement.Domain.dll": {}
         }
       }
     }
@@ -1072,6 +1078,11 @@
       "sha512": ""
     },
     "SchoolManagement.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SchoolManagement.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

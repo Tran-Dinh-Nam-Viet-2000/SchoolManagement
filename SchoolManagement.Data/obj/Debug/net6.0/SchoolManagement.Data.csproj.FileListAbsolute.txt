@@ -12,3 +12,6 @@ C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Data\obj\Debug\net6.
 C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Data\obj\Debug\net6.0\SchoolManagement.Data.pdb
 C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Data\obj\Debug\net6.0\SchoolManagement.Data.genruntimeconfig.cache
 C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Data\obj\Debug\net6.0\ref\SchoolManagement.Data.dll
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Data\bin\Debug\net6.0\SchoolManagement.Domain.dll
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Data\bin\Debug\net6.0\SchoolManagement.Domain.pdb
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Data\obj\Debug\net6.0\SchoolManagement.Data.csproj.CopyComplete

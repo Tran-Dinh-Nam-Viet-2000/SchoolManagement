@@ -1061,13 +1061,24 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.5"
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.5",
+          "SchoolManagement.Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/SchoolManagement.Data.dll": {}
         },
         "runtime": {
           "bin/placeholder/SchoolManagement.Data.dll": {}
+        }
+      },
+      "SchoolManagement.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SchoolManagement.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SchoolManagement.Domain.dll": {}
         }
       }
     }
@@ -3248,6 +3259,11 @@
       "type": "project",
       "path": "../SchoolManagement.Data/SchoolManagement.Data.csproj",
       "msbuildProject": "../SchoolManagement.Data/SchoolManagement.Data.csproj"
+    },
+    "SchoolManagement.Domain/1.0.0": {
+      "type": "project",
+      "path": "../SchoolManagement.Domain/SchoolManagement.Domain.csproj",
+      "msbuildProject": "../SchoolManagement.Domain/SchoolManagement.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {

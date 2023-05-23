@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace SchoolManagement.Contracts.Dtos
 {
-    public  class TeacherDto
+    public  class TeacherDto : BaseDto
     {
-        public string Name { get; set; }
         public int Age { get; set; }
         public int Phone { get; set; }
+        public int ClassId { get; set; }
     }
 }

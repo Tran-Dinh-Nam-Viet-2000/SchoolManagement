@@ -91,3 +91,12 @@ C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Web\bin\Debug\net6.0
 C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Web\bin\Debug\net6.0\SchoolManagement.Services.pdb
 C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Web\bin\Debug\net6.0\SchoolManagement.Contracts.dll
 C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Web\bin\Debug\net6.0\SchoolManagement.Contracts.pdb
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Web\bin\Debug\net6.0\SchoolManagement.Domain.dll
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Web\bin\Debug\net6.0\SchoolManagement.Domain.pdb
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Web\bin\Debug\net6.0\SchoolManagement.Infrastructure.dll
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Web\bin\Debug\net6.0\SchoolManagement.Infrastructure.pdb
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Web\bin\Debug\net6.0\JWT.dll
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Web\bin\Debug\net6.0\SchoolManagement.Authentication.Service.dll
+C:\Users\Admin\source\repos\Test_TwoModule\SchoolManagement.Web\bin\Debug\net6.0\SchoolManagement.Authentication.Service.pdb

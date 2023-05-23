@@ -9,7 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolManagement.Data", "Sc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolManagement.Services", "SchoolManagement.Services\SchoolManagement.Services.csproj", "{129A4F72-B73E-4A60-A7CF-B1EE4BB837B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolManagement.Contracts", "SchoolManagement.Contracts\SchoolManagement.Contracts.csproj", "{A526D7EA-6237-4CAC-A78C-DC6E9951C307}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolManagement.Contracts", "SchoolManagement.Contracts\SchoolManagement.Contracts.csproj", "{A526D7EA-6237-4CAC-A78C-DC6E9951C307}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolManagement.Infrastructure", "SchoolManagement.Infrastructure\SchoolManagement.Infrastructure.csproj", "{6EDA521E-B4F4-4A3B-99C7-2F94998204B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolManagement.Domain", "SchoolManagement.Domain\SchoolManagement.Domain.csproj", "{FE9A59FC-D8DB-4CBB-AE3C-0A67D2C58D53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolManagement.Authentication.Service", "SchoolManagement.Authentication.Service\SchoolManagement.Authentication.Service.csproj", "{47CF9B5C-AAC0-431E-B574-05D5FA368618}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{A526D7EA-6237-4CAC-A78C-DC6E9951C307}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A526D7EA-6237-4CAC-A78C-DC6E9951C307}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A526D7EA-6237-4CAC-A78C-DC6E9951C307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EDA521E-B4F4-4A3B-99C7-2F94998204B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EDA521E-B4F4-4A3B-99C7-2F94998204B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EDA521E-B4F4-4A3B-99C7-2F94998204B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EDA521E-B4F4-4A3B-99C7-2F94998204B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE9A59FC-D8DB-4CBB-AE3C-0A67D2C58D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9A59FC-D8DB-4CBB-AE3C-0A67D2C58D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9A59FC-D8DB-4CBB-AE3C-0A67D2C58D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9A59FC-D8DB-4CBB-AE3C-0A67D2C58D53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47CF9B5C-AAC0-431E-B574-05D5FA368618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47CF9B5C-AAC0-431E-B574-05D5FA368618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47CF9B5C-AAC0-431E-B574-05D5FA368618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47CF9B5C-AAC0-431E-B574-05D5FA368618}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

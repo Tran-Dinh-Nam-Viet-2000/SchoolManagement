@@ -1155,6 +1155,16 @@
             "rid": "win"
           }
         }
+      },
+      "SchoolManagement.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SchoolManagement.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SchoolManagement.Domain.dll": {}
+        }
       }
     }
   },
@@ -3500,13 +3510,19 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "SchoolManagement.Domain/1.0.0": {
+      "type": "project",
+      "path": "../SchoolManagement.Domain/SchoolManagement.Domain.csproj",
+      "msbuildProject": "../SchoolManagement.Domain/SchoolManagement.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.EntityFrameworkCore.Design >= 7.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.5",
-      "Microsoft.EntityFrameworkCore.Tools >= 7.0.5"
+      "Microsoft.EntityFrameworkCore.Tools >= 7.0.5",
+      "SchoolManagement.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3542,7 +3558,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Admin\\source\\repos\\Test_TwoModule\\SchoolManagement.Domain\\SchoolManagement.Domain.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\Test_TwoModule\\SchoolManagement.Domain\\SchoolManagement.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
